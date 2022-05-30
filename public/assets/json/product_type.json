@@ -1,0 +1,28 @@
+{
+    "title" : "อาหาร",
+    "description" : "อาหารปรุงสุก อาหารแห้งและเครื่องปรุงรสของกิน",
+    "image" : "assets/images/product_type/diet_2.svg",
+    "quantity" : 29
+},{
+    "title" : "บ้านและไลฟ์สไตล์",
+    "description" : "เฟอร์นิเจอร์เครื่องครัวและอุปกรณ์ของตกแต่งบ้าน",
+    // "image" : asset("assets/images/product_type/armchair.svg"),
+    "image" : "http://bootstrap-ecommerce.com/templates/alistyle-html/images/items/6.jpg",
+    "quantity" : 30
+},{
+    "title" : "เครื่องใช้ไฟฟ้า",
+    "description" : "อุปกรณ์เครื่องใช้ไฟฟ้าภายในบ้านและนอกบ้าน",
+    "image" : "assets/images/product_type/washing-machine.svg",
+    "quantity" : 16
+},{
+    "title" : "อุปกรณ์อิเล็กทรอนิกส์",
+    "description" : "คอมพิวเตอร์ แล็ปท็อป โทรศัพท์มือถือ แท็บเล็ต โดรน กล้องวงจรปิด กล้องคอมแพค",
+    "image" : "assets/images/product_type/responsive-design.svg",
+    "quantity" : 7
+},
+{
+    "title" : "สัตว์เลี้ยง",
+    "description" : "อุปกรณ์สัตว์เลี้ยง อาหารและขนมสัตว์เลี้ยง",
+    "image" : "assets/images/product_type/dog.svg",
+    "quantity" : 23
+},
